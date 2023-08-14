@@ -1,2 +1,1 @@
-# .github
-A profile description for LeTo
+LeTo services are coming soon. 👀
